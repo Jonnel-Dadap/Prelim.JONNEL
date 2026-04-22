@@ -1,0 +1,7 @@
+
+First name: onn|, last name: el|, grade: 89|, letter_grade: B|, status: passed|
+First name: nel | last name: jon | grade: 91 | letter_grade: A | status: passed|
+First name: stick | last name: o | grade: 76 | letter_grade: C | status: passed|
+First name: pak | last name: dak | grade: 59 | letter_grade: D | status: failed|
+First name: uu | last name: nalng | grade: 75 | letter_grade: C | status: failed|
+First name: ufew | last name: hewuf | grade: 77 | letter_grade: C | status: passed|

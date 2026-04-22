@@ -2,3 +2,4 @@ product: stick o | Price : P99.00 |  stock: Mid-range | category: 2 | status: LO
 product: kape | Price : P700.00 |  stock: premium | category: 90 | status: Ok |
 product: hatdog | Price : P30.00 |  stock: Budget | category: 9 | status: LOW-stock - reorder needed |
 product: langgonisa | Price : P60.00 |  stock: Mid-range | category: 20 | status: Ok |
+product: chesse | Price : P23.00 |  stock: Budget | category: 88 | status: Ok |
